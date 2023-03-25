@@ -22,6 +22,6 @@ def get_square(figure):
 
 print(
     sum(
-        map( get_square, FIGURES )
+        map(get_square, FIGURES)
     )
 )
